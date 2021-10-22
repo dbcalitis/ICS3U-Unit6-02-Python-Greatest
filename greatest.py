@@ -8,7 +8,7 @@ import random
 
 
 def greatest(num_list):
-    # This function determiens the largest number out of the list.
+    # This function determines the largest number out of the list.
     for counter in range(len(num_list)):
         if counter == 0:
             greatest_num = num_list[counter]
